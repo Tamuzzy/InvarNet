@@ -1,5 +1,5 @@
 # InvarNet
-This is the demo implementation of our paper: [Towards Invariant Time Series Forecasting in Smart Cities](https://dl.acm.org/doi/abs/10.1145/3589335.3651897).
+This is the implementation of our paper: [Towards Invariant Time Series Forecasting in Smart Cities](https://dl.acm.org/doi/abs/10.1145/3589335.3651897).
 
 
 ## Introduction
